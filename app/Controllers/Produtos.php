@@ -11,6 +11,6 @@ class Produtos extends BaseController
     {
         echo view('templates/header');
         echo view('produtos/listar');
-        echo view('templates/footer');
+        echo view('templates/footergit');
     }
 }
