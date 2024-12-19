@@ -1,8 +1,10 @@
 ### Oiee! sou Lemuel Cavalcante  👋
 
-- 👨🏻‍💻 Focado em desenvolvimento mobile
+- 👨🏻‍💻 FRONT END DEVELOPER
 - ⚛️ React Native (TaiwindCSS)
-- 🐦 Estudando Flutter e Swift
+- 📐 Angular (SCSS, Bootstrap)
+- 🐦 Flutter
+- 🐦‍🔥 Swift
 - 💌 Contate-me no email: lemu200011@gmail.com
 - 🖥️ Linkedin: https://www.linkedin.com/in/lemu6
 
